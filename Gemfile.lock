@@ -236,7 +236,7 @@ DEPENDENCIES
   devise (~> 4.8)
   importmap-rails
   jbuilder
-  pg
+  pg (~> 1.4)
   puma (~> 5.0)
   rails (~> 7.0.3, >= 7.0.3.1)
   selenium-webdriver
